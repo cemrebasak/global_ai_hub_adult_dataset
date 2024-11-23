@@ -80,3 +80,8 @@ Bu proje Python programlama dili kullanılarak geliştirilmiştir.
 
 ### Gereksinimler  
 Projeyi çalıştırmadan önce yukarıda bahsedilen kütüphanelerin kurulu olduğundan emin olun.
+
+---
+
+### Kaggle Proje Linki
+- [Kaggle Proje Linki)(https://www.kaggle.com/code/cemrebasakkilic/global-ai-hub)
