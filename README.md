@@ -84,4 +84,4 @@ Projeyi çalıştırmadan önce yukarıda bahsedilen kütüphanelerin kurulu old
 ---
 
 ### Kaggle Proje Linki
-- [Kaggle Proje Linki)(https://www.kaggle.com/code/cemrebasakkilic/global-ai-hub)
+- [Kaggle Proje Linki](https://www.kaggle.com/code/cemrebasakkilic/global-ai-hub)
