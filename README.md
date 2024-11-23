@@ -6,6 +6,11 @@ Bu proje, **Adult Dataset** üzerinde veri analizi yapmayı amaçlamaktadır. Pr
 
 ---
 
+### Kaggle Proje Linki
+- [Kaggle Proje Linki](https://www.kaggle.com/code/cemrebasakkilic/global-ai-hub)
+
+---
+
 ## Kullanılan Kütüphaneler
 
 Bu projede aşağıdaki Python kütüphaneleri kullanılmıştır:
@@ -80,8 +85,3 @@ Bu proje Python programlama dili kullanılarak geliştirilmiştir.
 
 ### Gereksinimler  
 Projeyi çalıştırmadan önce yukarıda bahsedilen kütüphanelerin kurulu olduğundan emin olun.
-
----
-
-### Kaggle Proje Linki
-- [Kaggle Proje Linki](https://www.kaggle.com/code/cemrebasakkilic/global-ai-hub)
