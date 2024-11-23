@@ -1,6 +1,6 @@
 # global_ai_hub_adult_dataset
 
-# **Adult Dataset Analizi**
+# **Aygaz Veri Analiz Bootcamp: Yeni Nesil Proje Kampı**
 
 Bu proje, **Adult Dataset** üzerinde veri analizi yapmayı amaçlamaktadır. Projede, eksik değerlerin işlenmesi, aykırı değerlerin ele alınması, özellik mühendisliği ve veri görselleştirme gibi temel veri analitiği adımları uygulanmıştır.
 
